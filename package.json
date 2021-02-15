@@ -59,7 +59,7 @@
     "namp": "~0.2.25",
     "node-idevice": "~0.1.2",
     "win-spawn" : "~1.1.1",
-    "adm-zip" : "~0.4.3",
+    "adm-zip" : "~0.5.2",
     "ws": "0.4.25",
     "socket.io" : "~0.9.14",
     "through": "~2.3.4"
