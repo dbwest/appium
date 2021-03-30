@@ -28,12 +28,12 @@
     "doc": "./docs"
   },
   "dependencies": {
-    "underscore": "~1.4.3",
+    "underscore": "~1.12.1",
     "colors": "~0.6.0-1",
     "express": "~3.0.6",
     "grunt": "~0.4.0",
     "grunt-cli": "~0.1.6",
-    "argparse": "~0.1.10",
+    "argparse": "~1.0.0",
     "path": "~0.4.9",
     "rimraf": "~2.1.1",
     "uuid-js": "~0.7.4",
