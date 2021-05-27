@@ -60,8 +60,8 @@
     "node-idevice": "~0.1.2",
     "win-spawn" : "~1.1.1",
     "adm-zip" : "~0.4.3",
-    "ws": "0.4.25",
-    "socket.io" : "~0.9.14",
+    "ws": "7.4.6",
+    "socket.io" : "~1.0.1",
     "through": "~2.3.4"
   },
   "scripts": {
