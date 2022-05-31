@@ -31,7 +31,7 @@
     "underscore": "~1.4.3",
     "colors": "~0.6.0-1",
     "express": "~3.0.6",
-    "grunt": "~0.4.0",
+    "grunt": "~1.0.3",
     "grunt-cli": "~0.1.6",
     "argparse": "~0.1.10",
     "path": "~0.4.9",
@@ -58,10 +58,10 @@
     "binary-cookies": "~0.1.1",
     "namp": "~0.2.25",
     "node-idevice": "~0.1.2",
-    "win-spawn" : "~1.1.1",
-    "adm-zip" : "~0.4.3",
+    "win-spawn": "~1.1.1",
+    "adm-zip": "~0.4.3",
     "ws": "0.4.25",
-    "socket.io" : "~0.9.14",
+    "socket.io": "~0.9.14",
     "through": "~2.3.4"
   },
   "scripts": {
